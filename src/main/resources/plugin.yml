@@ -1,0 +1,4 @@
+name: BukkitUtilities
+version: 1.0.0
+author: Flammenfuchs_YT
+main: de.flammenfuchs.bukkitutilities.domain.BukkitUtilities
